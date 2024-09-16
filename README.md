@@ -17,4 +17,10 @@ This project will test you on the topics covered throughout this Professional Ce
 
 <p><strong>Task</strong><br>
 Tailwind Traders requires a detailed report that outlines the company’s latest sales and profit overview. Tailwind Traders is a wholesaler company that is involved in the sales of housing and construction accessories. Ranging from Ultra grip hammer, luminous bulb 60w, Oakwood shelf, protile cutter, garden glove set, and steel nails (1 inch) to mention a few.
-The spreadsheet for this project contains about 55 unique product items, including the customer name, product descriptions, email address, etc. To achieve the sale and profit overview we are going to focus on the financial data like the gross product price, tax per product, quantity purchased, gross revenue, total tax, and net revenue, others are stocks, loyalty points, product category, and so on
+The spreadsheet for this project contains about 55 unique product items, including the customer name, product descriptions, email address, etc. To achieve the sale and profit overview we are going to focus on the financial data like the gross product price, tax per product, quantity purchased, gross revenue, total tax, and net revenue, others are stocks, loyalty points, product category, and so on.
+
+
+
+![Sales Overview](sales%20overview%20report.PNG)
+
+![Profit Overview](/profit%20overview%20report.PNG)
